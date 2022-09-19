@@ -22,6 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vue.js
 - Axios
 - Bootstrap
+- Utilizando Api CoinGecko
 <br>
 
 ## 💻 Instalação
